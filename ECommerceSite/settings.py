@@ -82,7 +82,7 @@ TEMPLATES = [
 CACHES = {
     'default': {
         'BACKEND': 'django_redis.cache.RedisCache',
-        'LOCATION': 'redis://localhost:6379/1',  # Redis server's URL & port
+        'LOCATION': 'redis://redis:6379/1',  # Redis server's URL & port
         'OPTIONS': {
             'CLIENT_CLASS': 'django_redis.client.DefaultClient',
         }
