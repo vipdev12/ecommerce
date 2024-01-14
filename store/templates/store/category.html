@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% block main %}
+<div style="display: inline-block;">
+    <h1>{{ category.name }}</h1>
+    <ul>
+        {% for sub_cat in sub_cats %}            
+                <a href="{% url 'sub_category' category_pk=category.pk sub_category_pk=sub_cat.pk %}">
+			<img src="{{ sub_cat.image.url }}" class="img-thumbnail alt="{{sub_cat.name}}">
+                    <p>{{ sub_cat.name }}</p>
+                </a>
+        {% endfor %}
+    </ul>
+</div>
+
+{% endblock %}
