@@ -6,14 +6,18 @@ TechSpace is an e-commerce platform built on Django, designed to provide users w
 Features:
 1. User Authentication:
 
+
 Secure user authentication and authorization mechanisms for a personalized experience.
 2. Product Catalog:
+
 
 A comprehensive catalog of electronics, including detailed product descriptions, specifications, and images.
 3. Search and Filter:
 
+
 Powerful search and filtering options to help users find the products they are looking for quickly.
 4. Shopping Cart:
+
 
 Intuitive shopping cart functionality for users to easily manage their selected items before proceeding to checkout.
 5. Checkout Process:
