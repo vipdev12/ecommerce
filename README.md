@@ -4,27 +4,28 @@ Project Description:
 TechSpace is an e-commerce platform built on Django, designed to provide users with a seamless and efficient experience in purchasing electronics. Whether you are looking for the latest gadgets, high-end smartphones, or cutting-edge electronics, TechSpace has you covered. The platform aims to create a user-friendly environment for both buyers and sellers, offering a diverse range of products and features.
 
 Features:
-User Authentication:
+
+1. User Authentication:
 
 Ensure a secure and personalized experience through robust user authentication and authorization mechanisms.
-Product Catalog:
+2. Product Catalog:
 
 Explore a diverse range of electronics with a comprehensive catalog. Detailed product descriptions, specifications, and high-quality images provide users with valuable information.
-Search and Filter:
+3. Search and Filter:
 
 Easily find desired products with powerful search and filtering options. Streamline the shopping experience by quickly narrowing down choices.
-Shopping Cart:
+4. Shopping Cart:
 
 Manage selected items effortlessly with an intuitive shopping cart. Users can review, add, or remove items before proceeding to a seamless checkout process.
-Checkout Process:
+5. Checkout Process:
 
 Experience a streamlined and secure checkout process. Multiple payment options ensure a hassle-free purchasing experience, catering to diverse user preferences.
-Order Tracking:
+6. Order Tracking:
 
 Stay informed about the status of your purchases through an efficient order tracking system. Track shipments and delivery updates for a transparent and reliable experience.
 User Reviews and Ratings:
 
-Contribute to the community by leaving reviews and ratings for products. This feature helps fellow users make informed decisions based on real experiences.
+7. Contribute to the community by leaving reviews and ratings for products. This feature helps fellow users make informed decisions based on real experiences.
 Responsive Design:
 
 Enjoy a seamless and consistent user experience across various devices. The responsive design ensures accessibility and usability, providing a user-friendly interface.
