@@ -1,5 +1,7 @@
+[![Python 3.6](https://img.shields.io/badge/python-3.10-yellow.svg)](https://www.python.org/downloads/release/python-360/)
+![Django 3.0](https://img.shields.io/badge/Django-4.2.6-green.svg)
 # Django E-commerce
-Ecommerce website built with Django 4.2.6, Python 3.10
+
 
 
 
