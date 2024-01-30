@@ -56,12 +56,12 @@ Enjoy a seamless and consistent user experience across various devices. The resp
 ![BillingAddress](https://i.ibb.co/0KZNQC7/200.png)
 
 
-## Technologies Used:
-Backend Framework: Django
-Database: PostgreSQL
-Frontend: HTML, CSS, JavaScript, BootStrap
-Payment: Deliver, By cash
-Authentication: Django Authentication System
+# Technologies Used:
+- Backend Framework: Django
+- Database: PostgreSQL
+- Frontend: HTML, CSS, JavaScript, BootStrap
+- Payment: Deliver, By cash
+- Authentication: Django Authentication System
 
 ##Getting Started:
 
