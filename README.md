@@ -1,6 +1,10 @@
-TechSpace E-commerce Project
-Project Name: TechSpace(ecommerce)
-Project Description:
+### TechSpace E-commerce Project
+
+
+**Project Name:** TechSpace(ecommerce)
+
+
+**Project Description:**
 TechSpace is an e-commerce platform built on Django, designed to provide users with a seamless and efficient experience in purchasing electronics. Whether you are looking for the latest gadgets, high-end smartphones, or cutting-edge electronics, TechSpace has you covered. The platform aims to create a user-friendly environment for both buyers and sellers, offering a diverse range of products and features.
 
 ### Features:
@@ -31,57 +35,77 @@ Responsive Design:
 Enjoy a seamless and consistent user experience across various devices. The responsive design ensures accessibility and usability, providing a user-friendly interface.
 
 
-Technologies Used:
+## Technologies Used:
 Backend Framework: Django
 Database: PostgreSQL
 Frontend: HTML, CSS, JavaScript, BootStrap
 Payment: Deliver, By cash
 Authentication: Django Authentication System
 
-Getting Started:
+##Getting Started:
 
 ## 1. Clone the Repository:
 
+```
 git clone https://github.com/vipdev1988/ecommerce.git
 cd ECommerceSite
-
+```
 ## 2. Create Virtual Environment:
-
+```
 python -m venv venv
-
+```
 ## 3. Activate Virtual Environment:
 
 Windows:
+```
 venv\Scripts\activate
-
+```
 Linux/Mac:
+```
 source venv/bin/activate
-
+```
 ## 4. Install Dependencies:
-
+```
 pip install -r requirements.txt
+```
+## 5. Run Postgresql server
 
-## 5. Run Migrations:
+Linux/mac:
+```
+sudo service postgresql start
+```
+Windows:
+Run postgresql on Windows
 
+## 6. Run Migrations:
+```
 python manage.py migrate
-
-## 6. Create Superuser:
-
+```
+## 7. Create Superuser:
+```
 python manage.py createsuperuser
+```
 
-## 7. Run the development server:
+## 8. Run redis server
 
+```
+redis-server
+```
+
+## 8. Run the development server:
+```
 python manage.py runserver
-
+```
 
 ### Docker Setup:
 
 ## 1. Build Docker Image:
-
+```
 docker build  .
+```
 ## 2. Run Docker Compose:
-
+```
 docker-compose up
-
+```
 License:
 This project is licensed under the MIT License.
