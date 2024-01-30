@@ -34,6 +34,10 @@ Responsive Design:
 
 Enjoy a seamless and consistent user experience across various devices. The responsive design ensures accessibility and usability, providing a user-friendly interface.
 
+## Screenshots:
+
+Home page(categories):
+![home page](https://ibb.co/tMP2rKL)
 
 ## Technologies Used:
 Backend Framework: Django
