@@ -40,16 +40,16 @@ Authentication: Django Authentication System
 
 Getting Started:
 
-1. Clone the Repository:
+## 1. Clone the Repository:
 
 git clone https://github.com/vipdev1988/ecommerce.git
 cd ECommerceSite
 
-2. Create Virtual Environment:
+## 2. Create Virtual Environment:
 
 python -m venv venv
 
-3. Activate Virtual Environment:
+## 3. Activate Virtual Environment:
 
 Windows:
 venv\Scripts\activate
@@ -57,29 +57,29 @@ venv\Scripts\activate
 Linux/Mac:
 source venv/bin/activate
 
-4. Install Dependencies:
+## 4. Install Dependencies:
 
 pip install -r requirements.txt
 
-5. Run Migrations:
+## 5. Run Migrations:
 
 python manage.py migrate
 
-6. Create Superuser:
+## 6. Create Superuser:
 
 python manage.py createsuperuser
 
-7. Run the development server:
+## 7. Run the development server:
 
 python manage.py runserver
 
 
-Docker Setup:
+### Docker Setup:
 
-1. Build Docker Image:
+## 1. Build Docker Image:
 
 docker build  .
-2. Run Docker Compose:
+## 2. Run Docker Compose:
 
 docker-compose up
 
