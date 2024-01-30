@@ -55,6 +55,8 @@ Enjoy a seamless and consistent user experience across various devices. The resp
 `Billing Address Page`
 ![BillingAddress](https://i.ibb.co/0KZNQC7/200.png)
 
+`Order confirmation Page`
+![Order confirmation](https://i.ibb.co/k3BKN28/204.png)
 
 # Technologies Used:
 - Backend Framework: Django
