@@ -37,7 +37,7 @@ Enjoy a seamless and consistent user experience across various devices. The resp
 ## Screenshots:
 
 Home page(categories):
-![home page](https://ibb.co/tMP2rKL)
+![home page](https://i.ibb.co/qMFgQjJ/191.png)
 
 ## Technologies Used:
 Backend Framework: Django
