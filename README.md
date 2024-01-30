@@ -1,4 +1,6 @@
-### TechSpace E-commerce Project
+# Django E-commerce
+Ecommerce website built with Django 4.2.6, Python 3.10
+
 
 
 **Project Name:** TechSpace(ecommerce)
@@ -36,15 +38,15 @@ Enjoy a seamless and consistent user experience across various devices. The resp
 
 ## Screenshots:
 
-Home page(categories):
+`Home page(categories)`
 ![home page](https://i.ibb.co/qMFgQjJ/191.png)
-Subcategories:
+`Subcategories Page`
 ![sub categories](https://i.ibb.co/THJzszP/192.png)
-Product detail:
+`Product detail Page`
 ![product detail](https://i.ibb.co/THJzszP/192.png)
-Cart:
+`Cart Page`
 ![Cart](https://i.ibb.co/4pF9qV3/199.png)
-Billing Address Page:
+`Billing Address Page`
 ![BillingAddress](https://i.ibb.co/0KZNQC7/200.png)
 
 
